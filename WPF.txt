@@ -9,4 +9,4 @@ D39D2240.R410 (Thực hiện)
 D47D1080.R410 (Có sẵn)
 
 CheckB1 B1
-CheckB2
+CheckB1 B2
